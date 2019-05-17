@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: esparta
+Build-Jdk: 11.0.2
+Implementation-Title: personal-discovery
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.br.personal
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/personal-microservices/personal-discovery
+Created-By: Maven Integration for Eclipse
+

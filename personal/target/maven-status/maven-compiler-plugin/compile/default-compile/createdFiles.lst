@@ -1,0 +1,6 @@
+com/br/personal/model/Personal.class
+com/br/personal/PersonalApplication.class
+com/br/personal/controller/PersonalController.class
+com/br/personal/model/Personal$PersonalBuilder.class
+com/br/personal/service/PersonalService.class
+com/br/personal/model/AbstractEntity.class

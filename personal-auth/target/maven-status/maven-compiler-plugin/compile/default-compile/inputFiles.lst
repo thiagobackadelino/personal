@@ -1,0 +1,4 @@
+/home/esparta/Workspace/personal/personal-microservices/personal-auth/src/main/java/com/br/personal/auth/security/user/UserDetailsServiceImpl.java
+/home/esparta/Workspace/personal/personal-microservices/personal-auth/src/main/java/com/br/personal/auth/security/SecurityCredentialsConfig.java
+/home/esparta/Workspace/personal/personal-microservices/personal-auth/src/main/java/com/br/personal/auth/security/filter/JwtUsernameAndPasswordAuthenticationFilter.java
+/home/esparta/Workspace/personal/personal-microservices/personal-auth/src/main/java/com/br/personal/auth/PersonalAuthApplication.java
